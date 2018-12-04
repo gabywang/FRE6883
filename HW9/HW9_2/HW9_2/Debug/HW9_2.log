@@ -1,0 +1,8 @@
+﻿  BSModel01.cpp
+f:\fre\fre 6883\hw9\hw9_2\hw9_2\bsmodel01.h(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW9_2.cpp
+f:\fre\fre 6883\hw9\hw9_2\hw9_2\bsmodel01.h(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PathDepOption03.cpp
+f:\fre\fre 6883\hw9\hw9_2\hw9_2\bsmodel01.h(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  HW9_2.vcxproj -> F:\FRE\FRE 6883\HW9\HW9_2\Debug\HW9_2.exe

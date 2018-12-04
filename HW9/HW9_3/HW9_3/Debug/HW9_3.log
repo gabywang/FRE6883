@@ -1,0 +1,3 @@
+﻿  HW9_3.cpp
+f:\fre\fre 6883\hw9_3\hw9_3\bsmodel01.h(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HW9_3.vcxproj -> F:\FRE\FRE 6883\HW9_3\Debug\HW9_3.exe
