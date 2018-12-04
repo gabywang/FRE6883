@@ -1,0 +1,44 @@
+HW1:
+
+Input:
+   double S0=106.0;
+   double r=0.058;
+   double sigma=0.46;
+   double T=9.0/12.0;
+   double K=100.0;
+
+Output:
+
+Eur Call Price = 21.5653
+Eur Put Price = 11.3222
+
+HW2:
+
+Input:
+   double S0=100., r=0.03, sigma=0.2;
+   double T=1.0/12.0, K=100.0;
+   int m=30;
+   long N=30000;
+   double epsilon=0.001;
+
+Output:
+Asian Call Price = 1.41927
+   Pricing Error = 0.0120013
+           delta = 0.523105
+           gamma = 0.119361
+
+HW3:
+   double S0=100.0, r=0.03, sigma=0.2;
+   double T =1.0/12.0, K=100.0;
+   int m=30;
+   long N=30000;
+   double epsilon =0.001;
+
+Output:
+Arithmetic call price = 1.42609
+Error = 0.000138491
+delta = 0.520246
+
+Price by direct MC = 1.41326
+Error = 0.0119483
+delta = 0.525525
